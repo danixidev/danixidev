@@ -1,3 +1,3 @@
 Hi, I’m @danixidev
 
-I program in languages like Java, Kotlin, Python, PHP, Swift and Javascript
+I program in languages like C, C++, Kotlin, Python, Swift and Javascript
